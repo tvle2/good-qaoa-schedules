@@ -1,0 +1,5 @@
+The primary goal is to empirically quantify the probability of randomly guessing a "good" parameter schedule in the QAOA as the circuit depth ($p$) increases
+
+1. Do curve fit with only not = 0 proportion datapoints.
+2. Show the parameters return from curve_fit and plot it on the figure.
+3. Try set of plots in which we add prop_inc + prop_desc.
